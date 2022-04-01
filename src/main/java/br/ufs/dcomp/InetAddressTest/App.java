@@ -10,7 +10,6 @@ import java.net.*;
 public class App {
     public static void main( String[] args ) {
         try {
-            
             // String name = "www.uol.com.br";
             String name = "www.ufs.br";
             InetAddress address = InetAddress.getByName(name); 
